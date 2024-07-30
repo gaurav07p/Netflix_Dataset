@@ -2,9 +2,9 @@
 Using python to help improve customer experience by analyzing data
 
 *Creating New Columns & Dataframe
-*Filtering (Single Column & Multiple Columns)
-*Filtering with And and OR
-*Seaborn Library - Bar Graphs
+  *Filtering (Single Column & Multiple Columns)
+  *Filtering with And and OR
+  *Seaborn Library - Bar Graphs
 
 The commands that i used in this project :
 
